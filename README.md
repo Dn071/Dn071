@@ -1,4 +1,4 @@
-<h4 align="left">Hi ! My name is Caio Vinicius, and I’m a Software Development student from Salvador, Brazil, with a technical background in IT. I’m passionate about technology, programming, and web development, and I’ve been building my journey with a focus on Python, HTML, CSS, JavaScript, Java, SQL, and C. I believe in continuous learning and developing practical projects as a way to grow professionally and create impact through technology.</h4>
+<h4 align="left">Hi ! My name is Daniel Oliveira , and I’m a Software Development student from Salvador, Brazil, with a technical background in IT. I’m passionate about technology, programming, and web development, and I’ve been building my journey with a focus on Python, HTML, CSS, JavaScript, Java, SQL, and C. I believe in continuous learning and developing practical projects as a way to grow professionally and create impact through technology.</h4>
 
 <div align="left">,
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
